@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<config>
+<player>
+	<start_position>
+		<x>79</x>
+		<y>154</y>
+	</start_position>
+	<ratio>0.7</ratio>
+	<side>r</side>
+</player>
+<hotspot>
+	<coord id="0">
+		<x>390</x>
+		<y>1045</y>
+		<width>80</width>
+		<height>_</height>
+		<toGo>Level1</toGo>
+	</coord>
+</hotspot>
+<zone>
+	<type>wild</type>
+</zone>
+</config>
+
